@@ -6,6 +6,6 @@ sudo apt install -y git && git clone https://github.com/darkness132465/installce
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./instaladorwhatsapsaas-main && sudo ./install_instancia
+cd ./installcert && sudo ./install_instancia
 ```
 
